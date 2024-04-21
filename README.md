@@ -1,4 +1,11 @@
-### Hi there 👋
+## Michael Miller
+# UCF CS graduate student with experience in software design, machine learning, and foreign languages.
+
+Hi! I'm Mike. I really like code, climbing, and cultural exchange :P 
+
+Я 4 года изучаю русский язык. Я люблю русскую музыку и културу!
+
+Currently based in Orlando, Florida. [My CV is in this same repository, have a look!](https://github.com/Dagomara/Dagomara/blob/main/CV.pdf)
 
 <!--
 **Dagomara/Dagomara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
